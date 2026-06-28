@@ -32,7 +32,7 @@
 
 LinkedIn: [Rajat Prajapati](https://www.linkedin.com/in/rajat-prajapati-3b34673a8)
 
-Email: [Email](mailto:rajatprajapati830@gmail.com)
+Email: rajatprajapati830@gmail.com
 
 ---
 
