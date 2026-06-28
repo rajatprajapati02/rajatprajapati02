@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hey, I'm Rajat Prajapati
 
-<!--
-**rajatprajapati02/rajatprajapati02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pharma ops professional → Aspiring Data Scientist | Learning in public 🚀**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋 About me
+
+- 💼 Working in computer operations at a pharma firm
+- 📊 On a mission to break into **Data Science** — starting from scratch
+- 🌱 Currently learning: **Excel & Data basics → Python → SQL → ML**
+- 📣 Documenting every step of the journey publicly on LinkedIn
+- 📍 Based in Kanpur, India
+
+> *"Every expert was once a beginner. Here's my public proof of work."*
+
+---
+
+## 🛣️ My Learning Roadmap
+
+| Stage | Topic | Status |
+|-------|-------|--------|
+| 1 | Excel & Data Basics | 🟢 Active |
+| 2 | Python for Data | 🔵 Up next |
+| 3 | SQL | ⚪ Planned |
+| 4 | Statistics & Probability | ⚪ Planned |
+| 5 | Machine Learning | ⚪ Planned |
+
+---
+
+## 🔗 Connect with me
+
+LinkedIn: [Rajat Prajapati](https://www.linkedin.com/in/rajat-prajapati-3b34673a8)
+
+Email: [Email](mailto:rajatprajapati830@gmail.com)
+
+---
+
+*Thanks for stopping by! This GitHub will grow as I learn. Stay tuned 🙌*
+
